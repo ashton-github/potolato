@@ -1,0 +1,34 @@
+#admin {
+    display: flex;
+}
+
+.admin_header {
+    text-align: center;
+    line-height: 50px;
+    border-bottom: solid 1px gray;
+
+}
+
+#admin_body {
+    flex-grow: 6;
+    padding-left: 15px;
+}
+
+
+/************ SideMenu *************/
+
+
+
+.SideMenu {
+    flex-grow: 1;
+    border-right: solid 1px gray;
+}
+
+.SideMenu ul {
+    list-style: none;
+}
+
+.SideMenu ul li a {
+    text-decoration: none;
+    color: black;
+}
