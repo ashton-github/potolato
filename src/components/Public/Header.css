@@ -1,0 +1,20 @@
+.public_header {
+    text-align: center;
+    border-bottom: solid 2px black;
+    padding: 10px;
+}
+
+.public_header ul {
+    list-style: none;
+    padding: 0px;
+}
+
+.public_header li {
+    display: inline-block;
+    margin-right: 20px;
+}
+
+.public_header a {
+    text-decoration: none;
+    color: aqua;
+}
