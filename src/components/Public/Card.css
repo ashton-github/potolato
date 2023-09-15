@@ -1,0 +1,14 @@
+
+
+.card_article{
+    width: 230px;
+    height: 230px;
+}
+.card_article img{
+    object-fit: cover;
+    width: 100%;
+}
+
+.card_link{
+    text-decoration: none;
+}

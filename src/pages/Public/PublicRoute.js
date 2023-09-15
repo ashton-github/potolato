@@ -14,7 +14,7 @@ const PublicRoute = () => {
 
                 <Route path="/home" element={<Home/>} />
                 <Route path="/contact" element={<Contact/>} />
-                <Route path="/service" element={<Service/>} />
+                <Route path="/service/:productId" element={<Service/>} />
 
                 <Route path="*" element={<Error/>} />
 

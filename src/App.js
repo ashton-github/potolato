@@ -7,6 +7,7 @@ import AuthRoute from "./pages/Auth/AuthRoute";
 import AuthControl from "./_utils/AuthProvidor/AuthControl";
 
 function App() {
+
   return (
     <div className="App">
       <BrowserRouter>

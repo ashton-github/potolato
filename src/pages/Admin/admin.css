@@ -6,7 +6,15 @@
     text-align: center;
     line-height: 50px;
     border-bottom: solid 1px gray;
+    display: flex;
+    justify-content: space-between;
 
+}
+
+.admin_header button {
+    width: 80px;
+    height: 30px;
+    margin: 10px;
 }
 
 #admin_body {
